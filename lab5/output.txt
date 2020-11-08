@@ -1,0 +1,107 @@
+mahantesh@mahantesh-Inspiron-15-3567:~/Data Structures/lab/lab5/linear queue$ ./linearqueue
+
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :1
+Enter the element
+1
+
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :1
+Enter the element
+2
+
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :1
+Enter the element
+3
+
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :1
+Enter the element
+4
+
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :1
+Enter the element
+5
+
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :1
+Enter the element
+6
+Queue is full
+
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :3
+
+ Queue contents:1 2 3 4 5 
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :2
+Removed element from the queue 1
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :2
+Removed element from the queue 2
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :3
+
+ Queue contents:3 4 5 
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :2
+Removed element from the queue 3
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :2
+Removed element from the queue 4
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :2
+Removed element from the queue 5
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :2
+Queue is empty
+
+ 1. Insert to Queue (EnQueue)
+ 2. delete from the Queue (DeQueue)
+ 3. Display the content 
+ 4. Exit
+Enter the option :4
