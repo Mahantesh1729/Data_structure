@@ -3,9 +3,12 @@ int fib(int n);
 int main () 
 { 
   int n;
-  printf("Input: ");
+  printf("Enter the number of terms in the fibonacci sequence: ");
   scanf("%d", &n);
-  printf("Output: %d\n", fib(n)); 
+  printf("Following is the Fibonacci Sequence up to %d terms:\n", n);
+  for(int i = 0; i <= n; i++)
+  printf("%d ", fib(i)); 
+  printf("\n");
   return 0; 
 } 
 int fib(int n) 
