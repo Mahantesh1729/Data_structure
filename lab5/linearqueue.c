@@ -55,7 +55,7 @@ void Enque(int ele)
 int Deque()
 {
     int item;
-    if(front == -1)
+    if(front == 0 && rear ==-1)
         return -1;
     else 
     {
@@ -63,7 +63,7 @@ int Deque()
         front++;
         if(front>rear)
         {
-            front=-1;
+            front=0;
             rear=-1;
         }
         return item;
