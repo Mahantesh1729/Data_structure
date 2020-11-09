@@ -74,7 +74,7 @@ int Deque()
 void display()
 {
     int i;
-    if(front==-1)
+    if(front==0 && rear == -1)
         printf("Queue is empty\n");
     else
     {
