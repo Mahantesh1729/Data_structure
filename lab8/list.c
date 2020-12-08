@@ -118,8 +118,11 @@ void search(NODE first, int item)
         if(temp->info == item)
         {
             printf("Element found and is in the position %d\n", pos);
+            return;
         }
     }
+    printf("Element not found in the list!!\n");
+    return;
 }
 void display(NODE first)
 {
